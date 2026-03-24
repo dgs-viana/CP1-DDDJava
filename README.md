@@ -26,8 +26,12 @@ Projeto desenvolvido em Java para simular o funcionamento de uma autoescola.
 2. Executar o programa:
    java Main
 
-## Alunos 
-Felipe Viana - 565341  
-Felipe Bonilha - 562356 
-Gabriel Ribeiro - 563584 
-Joan Ferreira - 562913 
+##  Integrantes
+
+| Nome            | RM     |
+| --------------- | ------ |
+| Felipe Viana    | 565341 |
+| Felipe Bonilha  | 562356 |
+| Gabriel Ribeiro | 563584 |
+| Joan Ferreira   | 562913 |
+
